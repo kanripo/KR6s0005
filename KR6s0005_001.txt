@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2127
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0005_T_000-0257b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0005_T_001-0257b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -539,7 +539,7 @@ No. 2127¶
 歷四朝號國師。慧忠肅代二朝入內說禪。¶
 號國師。元和中勅署知玄曰悟達國師¶
 (玄五歲便能吟詩。出家為沙彌。年十四講涅槃經。時李啇隱有詩贈云。十四沙彌解講經。似師年幾只¶
-携鉼。沙彌說法沙門聽。不在年高在性靈)。若偏霸之國。則蜀後主賜¶
+携鉼。沙彌說法沙門聽。不在年高在性靈)。若偏[襾/(革*月)]之國。則蜀後主賜¶
 僧錄光業為祐聖國師。吳越稱天台德韶¶
 為國師。江南署文遂為國大導師(如廣知請讀僧史略)。¶
 
